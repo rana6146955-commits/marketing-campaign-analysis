@@ -15,7 +15,7 @@ The goal was to clean the dataset, create useful marketing KPIs, compare campaig
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
