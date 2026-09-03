@@ -92,25 +92,25 @@ The analysis focused on questions such as:
 
 ### 💰 Total Revenue by Channel
 
-![Revenue by Channel](images/revenue_by_channel.png)
+![Revenue by Channel](revenue_by_channel.png)
 
 ---
 
 ### 📈 Average ROI by Channel
 
-![Average ROI by Channel](images/roi_by_channel.png)
+![Average ROI by Channel](roi_by_channel.png)
 
 ---
 
 ### 🎯 Total Conversions by Campaign
 
-![Conversions by Campaign](images/conversions_by_campaign.png)
+![Conversions by Campaign](conversions_by_campaign.png)
 
 ---
 
 ### 📍 Total Revenue by Region
 
-![Revenue by Region](images/revenue_by_region.png)
+![Revenue by Region](revenue_by_region.png)
 
 ---
 
