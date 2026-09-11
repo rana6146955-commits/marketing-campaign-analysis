@@ -81,14 +81,14 @@ The analysis focused on questions such as:
 
 ## 💡 Key Findings
 
-- 🥇 **Google Ads** generated the highest total revenue.
-- 📈 **Instagram** achieved the highest average ROI.
-- 🎯 **Ramadan Offer** generated the highest total number of conversions.
-- 📍 **Cairo** generated the highest total revenue among the analyzed regions.
+- **Google Ads** generated the highest total revenue.
+- **Instagram** achieved the highest average ROI.
+- **Ramadan Offer** generated the highest total number of conversions.
+- **Cairo** generated the highest total revenue among the analyzed regions.
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### 💰 Total Revenue by Channel
 
@@ -114,7 +114,7 @@ The analysis focused on questions such as:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 Through this project, I practiced the complete data analysis workflow:
 
@@ -124,7 +124,7 @@ One of the main lessons from the project was that statistical outliers should no
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Download or clone this repository.
 2. Open `marketing_campaign_analysis.ipynb`.
