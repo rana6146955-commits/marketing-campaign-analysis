@@ -90,13 +90,13 @@ The analysis focused on questions such as:
 ## Marketing Dashboard
 
 ### Overview
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](Maketing_Dashboard_Page1.png.png)
 
 ### Campaign Performance
-![Dashboard 2](dashboard2.png)
+![Dashboard 2](Maketing_Dashboard_Page2.png)
 
 ### Region & Device Analysis
-![Dashboard 3](dashboard3.png)
+![Dashboard 3](Maketing_Dashboard_Page3.png)
 
 ## Dashboard Demo
 
