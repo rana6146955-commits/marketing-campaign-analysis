@@ -90,7 +90,7 @@ The analysis focused on questions such as:
 ## Marketing Dashboard
 
 ### Overview
-![Dashboard 1](Marketing_Dashboard_Page1.png.png)
+![Dashboard 1](Marketing_Dashboard_Page1.png)
 
 ### Campaign Performance
 ![Dashboard 2](Marketing_Dashboard_Page2.png)
