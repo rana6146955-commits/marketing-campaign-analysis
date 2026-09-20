@@ -89,7 +89,7 @@ The analysis focused on questions such as:
 ---
 ## Marketing Dashboard Demo
 
-[▶ Watch the Marketing Dashboard video](Marketing_Dashboard.mp4)
+[![Marketing Dashboard](dashboard.png)](Marketing_Dashboard.mp4)
 
 
 ## Visualizations
