@@ -87,9 +87,9 @@ The analysis focused on questions such as:
 - **Cairo** generated the highest total revenue among the analyzed regions.
 
 ---
-## Dashboard
+## Marketing Dashboard
 
-![Dashboard](dasboard.mp4)
+![Marketing Dashboard](Marketing_dasboard.mp4)
 
 
 ## Visualizations
