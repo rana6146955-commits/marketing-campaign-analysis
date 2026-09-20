@@ -89,7 +89,7 @@ The analysis focused on questions such as:
 ---
 ## Marketing Dashboard
 
-![Marketing Dashboard](Marketing_dasboard.mp4)
+![Marketing Dashboard](Marketing_Dasboard.mp4)
 
 
 ## Visualizations
